@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/music-tracker/static/css/main.186433ce.css",
+    "main.js": "/music-tracker/static/js/main.b0831f46.js",
+    "index.html": "/music-tracker/index.html",
+    "main.186433ce.css.map": "/music-tracker/static/css/main.186433ce.css.map",
+    "main.b0831f46.js.map": "/music-tracker/static/js/main.b0831f46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.186433ce.css",
+    "static/js/main.b0831f46.js"
+  ]
+}
