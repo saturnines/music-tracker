@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/music-tracker/static/css/main.186433ce.css",
-    "main.js": "/music-tracker/static/js/main.b0831f46.js",
+    "main.js": "/music-tracker/static/js/main.446aa7fc.js",
     "index.html": "/music-tracker/index.html",
     "main.186433ce.css.map": "/music-tracker/static/css/main.186433ce.css.map",
-    "main.b0831f46.js.map": "/music-tracker/static/js/main.b0831f46.js.map"
+    "main.446aa7fc.js.map": "/music-tracker/static/js/main.446aa7fc.js.map"
   },
   "entrypoints": [
     "static/css/main.186433ce.css",
-    "static/js/main.b0831f46.js"
+    "static/js/main.446aa7fc.js"
   ]
 }
